@@ -1,2 +1,2 @@
-# crazy-learningtime
+# Miscellaneous 
 all  coding techniques learnt
